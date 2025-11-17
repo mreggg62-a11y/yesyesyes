@@ -6,7 +6,7 @@
 --  ▀                █   ██ dsc.gg/obfuscation  
 -- Final reconstruction with full variable resolution
 -- Based on 4208 logged operations
--- Generated: 2025-11-16T16:42:30.209603291+00:00
+-- Generated: 2025-11-17T04:46:19.672901199+00:00
 
 -- Statistics:
 -- Network requests: 0
@@ -2724,7 +2724,7 @@ TextLabel252_252.BorderSizePixel = 0
 TextLabel252_252.Position = {Y={Scale=0.0294117648, Offset=0}, X={Scale=-0.00132661709, Offset=0}, ClassName="UDim2"}
 TextLabel252_252.Size = {Y={Scale=0, Offset=34}, X={Scale=0, Offset=237}, ClassName="UDim2"}
 TextLabel252_252.Font = {Value=0, Name="Unknown", EnumType="Font"}
-TextLabel252_252.Text = "  T0PK3K 5.0 - FE REMAKE"
+TextLabel252_252.Text = "  RETARD - FE REMAKE"
 TextLabel252_252.TextColor3 = {R=1, G=1, B=1}
 TextLabel252_252.TextSize = 25
 TextButton253_253.Name = "Minimize"
